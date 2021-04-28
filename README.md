@@ -4,7 +4,8 @@ Downloads GeoJSON files from PennDOT's PennShare Portal
 ## How To Use
 This was created as a simple solution to pull GeoJSON files from the Pennsylvania Department of Transportation's [PennShare](https://data-pennshare.opendata.arcgis.com/) Data Repository.
 
-This was written to be a relatively quick way to pull multiple GeoJSON files from a single repository as opposed to having to pull many shapefiles. It establishes a working directory where the user specifies and then does the rest! 
+This was written to be a relatively quick way to pull multiple GeoJSON files from a single repository as opposed to having to pull many shapefiles. There are two function parameters. The first is the URL of the GeoJSON endpoint and the second is what you'll name the layer. It establishes a working directory where the user specifies and then does the rest! 
+
 
 ## Required Packages:
 
