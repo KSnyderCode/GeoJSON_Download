@@ -62,3 +62,17 @@ All packages required through this script are included in the Python3 standard l
 3. os
 4. urllib
 5. urllib.request
+
+## Contributing to this project
+
+If you enjoy this project and would like to contribute, do the following:
+
+1. Fork this respository.
+2. Create a new branch: <code>git checkout -b <branch_name></code>.
+3. Make your changes and commit them: <code>git commit -m '<commit_name>'</code>.
+4. Push to the origin branch: <code>git push origin <project_name></code>.
+5. Create a pull request. 
+
+## License
+
+This project uses an MIT License. 
