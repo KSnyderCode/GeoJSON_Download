@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 -No upcoming changes at this time - 2017-08-24
 
-## [0.2.0] - 2017-08-24
+## [0.2.0] - 2021-08-24
 ### Added
 - "Def Main / If Name Main" condition added
 - Prompt user for input for FILENAME/URL
@@ -24,7 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Requirement to "hard code" filenames and GeoJSON endpoints
 - Removed "time" library
 
-## [0.1.0] - 2017-04-28
+## [0.1.0] - 2021-04-28
 ### Added
 - Script initially pushed to Github
 
